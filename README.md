@@ -9,7 +9,8 @@
 6. Pada halaman home konten nya diisi dengan fitur penghitung BMI.
 
 ### NB
-Dilarang copas code orang lain.
+- Dilarang copas code orang lain.
+- Pada hari jumat depan dipersiapkan untuk presentasi hasil tugas yang telah dikerjakan (Dapat nilai tambah).
 
 ### Contoh Kasaran
 ![image](https://github.com/ilhmwisnu/tugas_pbm_pertemuan_6/blob/main/assets/image.jpg?raw=true)
