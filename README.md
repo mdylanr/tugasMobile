@@ -1,17 +1,15 @@
-# tugas_pbm_pertemuan_6
+# Tugas PBM Pertemuan 6
+### Apa yang harus kalian lakukan pada source code ini?
 
-A new Flutter project.
+1. Perbagus tampilan dari halaman login, register dan home sesuai kreativitas kalian masing2.
+2. Buat fitur register dan login berjalan sesuai semestinya (Boleh hanya single user atau multiple user untuk register).
+3. Tambahkan validasi pada user yang ingin login seperti username atau password salah dan lain-lain.
+4. Tampilkan username atau email dari user yang telah login pada halaman login (Bebas di posisi mana saja yang terpenting username atau email tampil pada halaman ini).
+5. Navigasi menggunakan metode named route.
+6. Pada halaman home konten nya diisi dengan fitur penghitung BMI.
 
-## Getting Started
+### NB
+Dilarang copas code orang lain.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tugas_pbm_pertemuan_6
+### Contoh Kasaran
+[image](assets/image.jpg)
