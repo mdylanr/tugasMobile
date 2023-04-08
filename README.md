@@ -11,7 +11,7 @@
 ### NB
 - Dilarang menggunakan package atau library apapun.
 - Dilarang copas code orang lain.
-- Source Code diupload ke repository github. Link repository dikumpulkan ke gform.
+- Source Code diupload ke repository github. Link repository dikumpulkan ke gform (Link gform [Klik disini](https://forms.gle/1xWz7Dwymk99F8no7)).
 - Pada hari jumat depan dipersiapkan untuk presentasi hasil tugas yang telah dikerjakan (Dapat nilai tambah).
 
 ### Contoh Kasaran
