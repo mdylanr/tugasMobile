@@ -2,7 +2,7 @@
 ### Apa yang harus kalian lakukan pada source code ini?
 
 1. Perbagus tampilan dari halaman login, register dan home sesuai kreativitas kalian masing2.
-2. Buat fitur register dan login berjalan sesuai semestinya (Boleh hanya single user atau multiple user untuk register). Untuk user yang telah register datanya dapat disimpan pada sebuah variable.
+2. Buat fitur register dan login berjalan sebagaimana mestinya (Boleh hanya single user atau multiple user untuk register). Untuk user yang telah register datanya dapat disimpan pada sebuah variable.
 3. Tambahkan validasi pada user yang ingin login seperti username atau password salah dan lain-lain.
 4. Tampilkan username atau email dari user yang telah login pada halaman login (Bebas di posisi mana saja yang terpenting username atau email tampil pada halaman ini).
 5. Navigasi menggunakan metode named route.
