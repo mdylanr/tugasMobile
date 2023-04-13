@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:tugas_pbm_pertemuan_6/page/home_page.dart';
 import 'package:tugas_pbm_pertemuan_6/page/login_page.dart';
 import 'package:tugas_pbm_pertemuan_6/page/register_page.dart';
 
@@ -14,9 +15,11 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       routes: {
         "/register": (context) => RegisterPage(),
+        "/login": (context) => LoginPage(),
+        "/home": (context) => HomePage(),
         // TODO : Tambahkan route lain
       },
-      initialRoute: "/register",
+      initialRoute: "/login",
     );
   }
 }
