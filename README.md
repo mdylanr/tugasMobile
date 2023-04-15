@@ -12,7 +12,10 @@
 - Dilarang menggunakan package atau library apapun.
 - Dilarang copas code orang lain.
 - Source Code diupload ke repository github. Link repository dikumpulkan ke gform (Link gform [Klik disini](https://forms.gle/1xWz7Dwymk99F8no7)).
-- Pada hari jumat depan dipersiapkan untuk presentasi hasil tugas yang telah dikerjakan (Dapat nilai tambah).
+- Pada hari jumat depan dipersiapkan untuk presentasi hasil tugas yang telah dikerjakan (Dapat nilai tambah).`
+
+
+- Menggunakan localhost
 
 ### Contoh Kasaran
 ![image](https://github.com/ilhmwisnu/tugas_pbm_pertemuan_6/blob/main/assets/image.jpg?raw=true)
